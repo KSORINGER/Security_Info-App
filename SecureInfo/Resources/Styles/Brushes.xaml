@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="TitleBar" Color="#2E4B40" />
+    <SolidColorBrush x:Key="NavigateBar" Color="#3C5F52"/>
+    <SolidColorBrush x:Key="Background" Color="#475C54" />
+    
+    <LinearGradientBrush x:Key="BackgroundGragient">
+        <GradientStop Color="#2E4B40" Offset="0"/>
+        <GradientStop Color="#475C54" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="NavigateGragient" >
+        <GradientStop Color="#3C5F52" Offset="0" />
+        <GradientStop Color="#475C54" Offset="1"/>
+      
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="BorderGradient">
+        <GradientStop Color="#415D56" Offset="0" />
+        <GradientStop Color="#5A706B" Offset="1"/>
+    </LinearGradientBrush>
+</ResourceDictionary>

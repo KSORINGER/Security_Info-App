@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="SecureInfo.Views.UpdatesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SecureInfo.Views"
+             xmlns:vm="clr-namespace:SecureInfo.ViewModels"
+             mc:Ignorable="d" 
+             Background="{StaticResource BackgroundGragient}"
+             d:DataContext="{d:DesignInstance vm:UpdatesViewModel,IsDesignTimeCreatable=True}"
+             d:DesignHeight="570" d:DesignWidth="1200">
+    <Grid>
+        <DataGrid Margin="20" FontSize="20" Background="{StaticResource BorderGradient}" ItemsSource="{Binding Updates}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="{DynamicResource Title}" Binding="{Binding Title}" Width="150"/>
+                <DataGridTextColumn Header="{DynamicResource ClientAppID}" Binding="{Binding ClientApplicationID}" Width="250"/>
+                <DataGridTextColumn Header="{DynamicResource Date}" Binding="{Binding Date}" Width="150"/>
+                <DataGridTextColumn Header="{DynamicResource Description}" Binding="{Binding Description}" Width="350"/>
+                <DataGridHyperlinkColumn Header="{DynamicResource SupportULR}" Binding="{Binding SupportUrl}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

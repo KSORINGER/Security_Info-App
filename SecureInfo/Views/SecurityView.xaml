@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="SecureInfo.Views.SecurityView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SecureInfo.Views"
+             xmlns:model="clr-namespace:SecureInfo.Models"
+             xmlns:vm="clr-namespace:SecureInfo.ViewModels"
+             mc:Ignorable="d" 
+             Background="{StaticResource BackgroundGragient}"
+             d:DataContext="{d:DesignInstance vm:SecurityViewModel, IsDesignTimeCreatable=True}"
+             d:DesignHeight="570" d:DesignWidth="1200">
+    <Grid>
+        <ListBox Margin="20" Background="Transparent"  ItemsSource="{Binding AntiVirusProducts}" HorizontalAlignment="Center" Style="{StaticResource MaterialDesignToolToggleListBox}">
+            <ListBox.Template>
+                <ControlTemplate >
+                    <Border HorizontalAlignment="Center" Background="{StaticResource BorderGradient}"  BorderThickness="5" CornerRadius="15">
+                       
+                        <ScrollViewer CanContentScroll="False">
+                            <ItemsPresenter/>
+                        </ScrollViewer>
+                    </Border>
+                </ControlTemplate>
+                </ListBox.Template>
+            <ListBox.ItemTemplate>
+                <DataTemplate DataType="{x:Type model:AntiVirusProduct}">
+                    <StackPanel Orientation="Vertical" Margin="20" Opacity="1">
+                        
+                    
+                    <TextBlock Text="{Binding displayName}" Style="{StaticResource MaterialDesignHeadline4TextBlock}"/>
+                    <StackPanel Orientation="Horizontal" Margin="40,20">
+                            <StackPanel Orientation="Vertical" Margin="20">
+                                <TextBlock Text="{DynamicResource ProductState}" Style="{StaticResource MaterialDesignHeadline5TextBlock}" HorizontalAlignment="Right" />
+                                <TextBlock Text="{DynamicResource InstanceGuid}" Style="{StaticResource MaterialDesignHeadline5TextBlock}" HorizontalAlignment="Right"/>
+                                <TextBlock Text="{DynamicResource PathToProduct}" Style="{StaticResource MaterialDesignHeadline5TextBlock}" HorizontalAlignment="Right"/>
+                                <TextBlock Text="{DynamicResource PathToReport}" Style="{StaticResource MaterialDesignHeadline5TextBlock}" HorizontalAlignment="Right"/>
+                                <TextBlock Text="{DynamicResource LastUpdate}" Style="{StaticResource MaterialDesignHeadline5TextBlock}" HorizontalAlignment="Right"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical" Margin="20">
+                                <TextBlock Text="{Binding productState}" Style="{StaticResource MaterialDesignHeadline5TextBlock}"/>
+                                <TextBlock Text="{Binding instanceGuid}" Style="{StaticResource MaterialDesignHeadline5TextBlock}"/>
+                                <TextBlock Text="{Binding pathToSignedProductExe}" Style="{StaticResource MaterialDesignHeadline5TextBlock}"/>
+                                <TextBlock Text="{Binding pathToSignedReportingExe}" Style="{StaticResource MaterialDesignHeadline5TextBlock}"/>
+                                <TextBlock Text="{Binding timestamp}" Style="{StaticResource MaterialDesignHeadline5TextBlock}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

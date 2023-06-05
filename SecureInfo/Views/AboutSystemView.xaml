@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="SecureInfo.Views.AboutSystemView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SecureInfo.Views"
+             xmlns:vm="clr-namespace:SecureInfo.ViewModels"
+             mc:Ignorable="d" 
+             Background="{StaticResource BackgroundGragient}"
+             d:DataContext="{d:DesignInstance vm:AboutSystemViewModel,IsDesignTimeCreatable=True}"
+             d:DesignHeight="570" d:DesignWidth="1200">
+    <UserControl.Resources>
+        <Style  TargetType="TextBlock">
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="Foreground" Value="WhiteSmoke"/>
+            <Setter Property="Margin" Value="0 5"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+
+        <Border  Background="{StaticResource BorderGradient}" Opacity="0.7" BorderThickness="5" CornerRadius="15" Margin="40,20,40,40" >
+            <StackPanel Orientation="Vertical" Margin="20">
+
+
+                <TextBlock Text="{DynamicResource About}" FontSize="30" HorizontalAlignment="Center"/>
+                <StackPanel Orientation="Horizontal" Margin="50,20">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="{DynamicResource OS}" HorizontalAlignment="Right" />
+                        <TextBlock Text="{DynamicResource Version}" HorizontalAlignment="Right" />
+                        <TextBlock Text="{DynamicResource ComputerName}" HorizontalAlignment="Right"/>
+
+                        <TextBlock Text="{DynamicResource UserName}" HorizontalAlignment="Right"/>
+                        <TextBlock Text="{DynamicResource SerialNum}" HorizontalAlignment="Right" />
+                        <TextBlock Text="{DynamicResource Cpu}" HorizontalAlignment="Right"/>
+                        <TextBlock Text="{DynamicResource Gpu}" HorizontalAlignment="Right"/>
+                        <TextBlock Text="{DynamicResource Ram}" HorizontalAlignment="Right"/>
+                        <TextBlock Text="{DynamicResource BIOS}" HorizontalAlignment="Right"/>
+                        <TextBlock Text="{DynamicResource MAC}" HorizontalAlignment="Right"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="20 0 ">
+                        <TextBlock Text="{Binding SystemInfo.Caption}" />
+                        <TextBlock Text="{Binding SystemInfo.Version}"/>
+                        <TextBlock Text="{Binding SystemInfo.CSName}" />
+                        
+                        <TextBlock Text="{Binding SystemInfo.RegisteredUser}" />
+                        <TextBlock Text="{Binding SystemInfo.SerialNumber}" />
+                        
+                        <TextBlock Text="{Binding HardwareInfo.ProcessorInformation}"/>
+                        <TextBlock Text="{Binding HardwareInfo.GPU}"/>
+                        <TextBlock Text="{Binding HardwareInfo.PhysicalMemory}"/>
+                        <TextBlock Text="{Binding HardwareInfo.BIOScaption}"/>
+                        <TextBlock Text="{Binding HardwareInfo.MACAddress}"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            
+        </Border>
+
+       
+    </Grid>
+</UserControl>

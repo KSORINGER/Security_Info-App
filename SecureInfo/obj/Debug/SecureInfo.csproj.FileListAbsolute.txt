@@ -1,0 +1,288 @@
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\App.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Alex Olkhovyk\source\repos\SecureInfo\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.Buffers.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.Memory.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\App.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\SecureInfo\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.Buffers.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.Memory.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\App.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\denny\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.Buffers.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.Memory.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\App.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.Buffers.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.Memory.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\App.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\SPZ kursova project\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\SecureInfo.exe.config
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.Buffers.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.CodeDom.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.Memory.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.AssemblyReference.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.ResolveComReference.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\Locals\eng.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\Locals\ukr.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\Styles\Brushes.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\Styles\ButtonStyles.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\Styles\TextStyles.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\AboutSystemView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\FirewallView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\HelpView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\SecurityView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\UpdatesView.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\App.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo_MarkupCompile.lref
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\App.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Resources\DataTemplates\DataTemplate.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\AboutSystemView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\FirewallView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\HelpView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\MainWindow.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\SecurityView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\Views\UpdatesView.baml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.g.resources
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.Properties.Resources.resources
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.GenerateResource.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.CopyLocal.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.exe
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.pdb

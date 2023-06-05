@@ -1,0 +1,58 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <!--//Buttons-->
+
+
+    <system:String x:Key="AboutSystemBtn">Про систему</system:String>
+    <system:String x:Key="SecurityBtn">Захист</system:String>
+    <system:String x:Key="FirewallBtn">Правила брандмауера</system:String>
+    <system:String x:Key="UpdatesBtn">Оновлення</system:String>
+    <system:String x:Key="HelpBtn">Допомога</system:String>
+
+
+    <!--About-->
+    <system:String x:Key="About">Про систему</system:String>
+    <system:String x:Key="OS">Операційна система:</system:String>
+    <system:String x:Key="Version">Версія:</system:String>
+    <system:String x:Key="ComputerName">Ім'я комп'ютера:</system:String>
+    <system:String x:Key="UserName">Ім'я користувача:</system:String>
+    <system:String x:Key="SerialNum">Серійний номер:</system:String>
+    <system:String x:Key="Cpu">Центральний процесор:</system:String>
+    <system:String x:Key="Gpu">Графічний процесор:</system:String>
+    <system:String x:Key="Ram">Основна пам'ять:</system:String>
+    <system:String x:Key="BIOS">Біос:</system:String>
+    <system:String x:Key="MAC">MAC-Адреса:</system:String>
+
+    <!--Security-->
+    <system:String x:Key="ProductState">Стан продукту:</system:String>
+    <system:String x:Key="InstanceGuid">Довідник екземплярів:</system:String>
+    <system:String x:Key="PathToProduct">Шлях до підписаного продукту:</system:String>
+    <system:String x:Key="PathToReport">Шлях до підписаної звітності:</system:String>
+    <system:String x:Key="LastUpdate">Останнє оновлення:</system:String>
+
+    <!--Firewall-->
+    <system:String x:Key="Name">Ім'я</system:String>
+    <system:String x:Key="Description">Опис</system:String>
+    <system:String x:Key="Enabled">Увімкнено</system:String>
+    <system:String x:Key="Direction">Напрямок</system:String>
+    <system:String x:Key="Protocol">Протокол</system:String>
+    <system:String x:Key="AppName">Назва програми</system:String>
+
+    <!--Updates-->
+
+    <system:String x:Key="Title">Назва</system:String>
+    <system:String x:Key="ClientAppID">Ідентифікатор клієнтської програми</system:String>
+    <system:String x:Key="Date">Дата</system:String>
+    <system:String x:Key="SupportULR">URL-адреса підтримки</system:String>
+
+
+    <system:String x:Key="DevBy">Цей додаток розробив Денис-Юрій Маліков, КІ-34</system:String>
+
+    <system:String x:Key="AboutSys">Сторінка "Про систему" - відображає загальну інформацію про ваш комп'ютер</system:String>
+    <system:String x:Key="AboutFirewall">Сторінка "Правила брандмауера" - відображає всі правила входу/виходу на брандмауері</system:String>
+    <system:String x:Key="AboutSecurity">Сторінка "Безпека" - відображає всі встановлені антивіруси</system:String>
+    <system:String x:Key="AboutUpdates">Сторінка "Оновлення" - відображає всі встановлені оновлення. Якщо нічого не відображається, це означає, що Windows Uptade не ввімкнено</system:String>
+
+
+</ResourceDictionary>

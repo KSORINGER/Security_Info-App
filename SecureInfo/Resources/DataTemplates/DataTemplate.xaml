@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:view="clr-namespace:SecureInfo.Views"
+                    xmlns:vm="clr-namespace:SecureInfo.ViewModels">
+    <DataTemplate DataType="{x:Type vm:UpdatesViewModel}">
+        <view:UpdatesView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vm:AboutSystemViewModel}">
+        <view:AboutSystemView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vm:FirewallViewModel}">
+        <view:FirewallView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vm:SecurityViewModel}">
+        <view:SecurityView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vm:HelpViewModel}">
+        <view:HelpView/>
+    </DataTemplate>
+
+</ResourceDictionary>

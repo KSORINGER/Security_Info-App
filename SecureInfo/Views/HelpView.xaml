@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="SecureInfo.Views.HelpView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SecureInfo.Views"
+             mc:Ignorable="d" 
+             Background="{StaticResource BackgroundGragient}"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+
+        <Border Background="{StaticResource BorderGradient}" CornerRadius="15" Margin="20">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Style="{StaticResource Title_Style}" FontSize="22" Text="{DynamicResource DevBy}"/>
+                <TextBlock Grid.Row="1" Text="{DynamicResource AboutSys}" Style="{StaticResource Description_Style}" FontSize="18"/>
+                <TextBlock Grid.Row="2" Text="{DynamicResource AboutSecurity}" Style="{StaticResource Description_Style}" FontSize="18"/>
+                <TextBlock Grid.Row="3" Text="{DynamicResource AboutFirewall}" Style="{StaticResource Description_Style}" FontSize="18"/>
+                <TextBlock Grid.Row="4" Text="{DynamicResource AboutUpdates}" Style="{StaticResource Description_Style}" TextWrapping="Wrap" FontSize="18" Margin="30,0,0,0"/>
+
+            </Grid>
+        </Border>
+
+    </Grid>
+</UserControl>
