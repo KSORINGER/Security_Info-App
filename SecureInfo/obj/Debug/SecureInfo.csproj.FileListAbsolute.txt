@@ -286,3 +286,7 @@ C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debu
 C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.csproj.CopyComplete
 C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.exe
 C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.pdb
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\SecureInfo.exe.manifest
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\bin\Debug\SecureInfo.application
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.exe.manifest
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\SecureInfo.application
