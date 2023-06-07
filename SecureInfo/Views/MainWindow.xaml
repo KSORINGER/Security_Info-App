@@ -26,6 +26,7 @@
         <cmd:MoveWindowAppCommand x:Key="MoveWindowCommand"/>
         <cmd:EnlargeWindowAppCommand x:Key="MaximizeWindowCommand"/>
         <cmd:LocalizationCommands x:Key="SetLocalCommand"/>
+        <cmd:DefaultWindowSizeCommand x:Key="DefaultWindowSizeCommand"/>
     </Window.Resources>
     <WindowChrome.WindowChrome>
         <WindowChrome CaptionHeight="0"/>
@@ -38,7 +39,7 @@
             <RowDefinition Height="80"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <tb:TaskbarIcon Visibility="Visible" IconSource="appIco.ico" >
+        <tb:TaskbarIcon Visibility="Visible" IconSource="appIco.ico" DoubleClickCommand="{StaticResource DefaultWindowSizeCommand}" >
             <tb:TaskbarIcon.TrayPopup>
                 <Grid Background="{StaticResource BackgroundGragient}">
                     <StackPanel Orientation="Vertical" Margin="10">

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\obj\Debug\
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\obj\Debug\
 SecureInfo
 none
 false
 DEBUG;TRACE
-C:\Users\Denys\Desktop\3kurs2\Курсач СПЗ\denny\SecureInfo\App.xaml
+C:\Users\Denys\Desktop\SPZ kursova project\Security_Info-App\SecureInfo\App.xaml
 12-1824145445
 
 32-1576682559
-138-1649915568
+1382124717268
 Resources\DataTemplates\DataTemplate.xaml;Resources\Locals\eng.xaml;Resources\Locals\ukr.xaml;Resources\Styles\Brushes.xaml;Resources\Styles\ButtonStyles.xaml;Resources\Styles\TextStyles.xaml;Views\AboutSystemView.xaml;Views\FirewallView.xaml;Views\HelpView.xaml;Views\MainWindow.xaml;Views\SecurityView.xaml;Views\UpdatesView.xaml;
 
-False
+True
 

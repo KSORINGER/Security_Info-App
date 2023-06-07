@@ -34,10 +34,6 @@ namespace SecureInfo.Services
                     Enabled = rule.Enabled,
                     Direction = rule.Direction.ToString(),
                     Protocol =  rule.Protocol,
-                    LocalAddresses= rule.LocalAddresses,
-                    RemoteAddresses= rule.RemoteAddresses,
-                    LocalPorts= rule.LocalPorts,
-                    RemotePorts= rule.RemotePorts,
                     ApplicationName= rule.ApplicationName
                 });
                 

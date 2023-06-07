@@ -13,10 +13,6 @@ namespace SecureInfo.Models
         public bool Enabled { get; set; }
         public string Direction { get; set; }
         public int Protocol { get; set; }
-        public string LocalAddresses { get; set; }
-        public string RemoteAddresses { get; set; }
-        public string LocalPorts { get; set; }
-        public string RemotePorts { get; set; }
         public string ApplicationName { get; set; }
 
     }
